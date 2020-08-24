@@ -11,7 +11,14 @@ npm install
 ```
 You should get your own Google Maps API key from [Google Maps Docs](https://developers.google.com/maps/documentation/javascript/get-api-key) 
 
-Then, enter your key on the `gmapKey.json` file.
+Then, create a file called `gmapKey.json` with the following format and write your API ke there.
+
+```
+{
+    "key": "YOUR_API_KEY_HERE"
+}
+```
+
 
 ### Compiles and hot-reloads for development
 ```
