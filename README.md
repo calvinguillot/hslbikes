@@ -1,5 +1,10 @@
 # hslbikes
 
+This is a tool to visualise the usage of the Helsinki City Bikes, during the 2019 season. Select a month a press OK. 
+
+You can find a demo here [HSL Bikes](https://hslbikesviz.web.app/) 
+
+
 ## Project setup
 ```
 npm install
